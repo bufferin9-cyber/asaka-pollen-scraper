@@ -2,19 +2,19 @@
   "available": true,
   "location": "杉並",
   "season": "herbaceous",
-  "period": "9/21～9/27",
+  "period": "9/28～10/4",
   "values": {
     "スギ": 0.0,
     "ヒノキ": 0.0,
-    "イネ科": 0.6,
-    "ブタクサ属": 4.6,
-    "ヨモギ属": 0.6,
-    "カナムグラ": 12.0
+    "イネ科": 3.1,
+    "ブタクサ属": 0.3,
+    "ヨモギ属": 0.0,
+    "カナムグラ": 11.4
   },
-  "total": 17.8,
+  "total": 14.8,
   "unit": "個/cm²(観測期間合計、週1回更新)",
   "level": null,
-  "updatedAt": "2026-10-13T12:02:48.312457+09:00",
+  "updatedAt": "2026-10-13T23:13:25.434350+09:00",
   "source": "東京都保健医療局 東京都アレルギー情報navi.",
   "sourceUrl": "https://www.hokeniryo1.metro.tokyo.lg.jp/allergy/pollen/"
 }
